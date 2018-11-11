@@ -18,3 +18,10 @@ Windows 10 Home, Microsoft Excel 2010
 
 ### 補足
 - PUSH時は、ExportAllマクロ（モジュール書き出し）を実行すること
+
+### 使用イメージ
+#### <エクセルで作成した単語集>
+<img src="https://github.com/otaks/img/blob/master/LinkWords_cap1.png" width="500px">
+
+#### <上記から作成したHTML単語集>
+<img src="https://github.com/otaks/img/blob/master/LinkWords_cap2.png" width="500px">
