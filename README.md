@@ -16,3 +16,5 @@ Windows 10 Home, Microsoft Excel 2010
 1. HTML出力ボタン押下
 1. 同ディレクトリに出力される、単語集.htmlをブラウザで開く
 
+### 補足
+- PUSH時は、ExportAllマクロ（モジュール書き出し）を実行すること
